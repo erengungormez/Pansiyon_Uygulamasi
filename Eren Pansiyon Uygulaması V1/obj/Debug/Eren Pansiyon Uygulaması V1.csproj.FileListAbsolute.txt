@@ -1,0 +1,24 @@
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\bin\Debug\Eren Pansiyon Uygulaması V1.exe.config
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\bin\Debug\Eren Pansiyon Uygulaması V1.exe
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\bin\Debug\Eren Pansiyon Uygulaması V1.pdb
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren Pansiyon Uygulaması V1.csproj.AssemblyReference.cache
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren_Pansiyon_Uygulaması_V1.Properties.Resources.resources
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren Pansiyon Uygulaması V1.csproj.GenerateResource.cache
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren Pansiyon Uygulaması V1.csproj.CoreCompileInputs.cache
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren Pansiyon Uygulaması V1.exe
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren Pansiyon Uygulaması V1.pdb
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren_Pansiyon_Uygulaması_V1.FrmYeniMusteri.resources
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren_Pansiyon_Uygulaması_V1.FrmAnaForm.resources
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren_Pansiyon_Uygulaması_V1.FrmAdminGiris.resources
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\bin\Debug\aa\Eren Pansiyon Uygulaması V1.resources.dll
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren_Pansiyon_Uygulaması_V1.FrmAdminGiris.aa.resources
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\aa\Eren Pansiyon Uygulaması V1.resources.dll
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren_Pansiyon_Uygulaması_V1.FrmOdalar.resources
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren_Pansiyon_Uygulaması_V1.FrmMusteriler.resources
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren Pansiyon Uygulaması V1.csproj.ResolveComReference.cache
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren_Pansiyon_Uygulaması_V1.FrmGelirGider.resources
+C:\Users\ereng\source\repos\Eren Pansiyon Uygulaması V1\Eren Pansiyon Uygulaması V1\obj\Debug\Eren_Pansiyon_Uygulaması_V1.FrmRadyoDinle.resources
